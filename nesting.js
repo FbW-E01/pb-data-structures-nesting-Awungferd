@@ -82,3 +82,5 @@ console.log(recipes)
   delete recipes.ingredients[sugar];
  }
 console.log(renameSugar(recipes))
+
+//NB I got stuck on this question at night. Will come back to it later
